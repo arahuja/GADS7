@@ -12,7 +12,7 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 - [ Lesson 1 Slides ]()
 
 ####Handouts
-- [Unix Basics: Intro to the Command Line](https://github.com/arahuja/GADS4/wiki/Intro-to-the-command-line)
+- [Unix Basics: Intro to the Command Line](https://github.com/arahuja/GADS7/wiki/Intro-to-the-command-line)
 
 ####Links
 - [How To Start Thinking Like a Data Scientist](http://blogs.hbr.org/2013/11/how-to-start-thinking-like-a-data-scientist/)
@@ -23,3 +23,34 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 - [Git Tutorial from CodeSchool](http://try.github.io/)
 
 ###Lesson 2: Data Storage and Extraction
+
+####Slides
+- [ Lesson 1 Slides ]()
+
+###Handouts
+- [MySQL Tutorial](https://github.com/arahuja/GADS7/wiki/MySQL-Tutorial)
+- [Introduction to Python](https://github.com/arahuja/GADS7/wiki/Introduction-to-Python)
+- [Python Exercises](https://github.com/arahuja/GADS7/wiki/Python-Exercises)
+
+
+### Links
+- [Comparison of NoSQL Databases](http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis)
+- [Interactive Python Tutorial](http://www.learnpython.org/page/Basic%20Operators)
+- [Introduction to Python](http://nbviewer.ipython.org/urls/bitbucket.org/amjoconn/watpy-learning-to-code-with-python/raw/3441274a54c7ff6ff3e37285aafcbbd8cb4774f0/notebook/Learn%20to%20Code%20with%20Python.ipynb)
+- [Python Data Structures](http://nbviewer.ipython.org/urls/github.com/profjsb/python-bootcamp/raw/master/DataFiles_and_Notebooks/02_AdvancedDataStructures/data_structures.ipynb)
+
+###Lesson 3: Python and Data Manipulation
+
+####Slides
+- [ Lesson 1 Slides ]()
+
+###Handouts
+- [Python Exercises](https://github.com/arahuja/GADS7/wiki/Python-Exercises)
+
+### Links
+- [Introduction to Pandas](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/01%20-%20Lesson.ipynb)
+
+###Lesson 4: Data Visualization
+
+
+###Lesson 5: Introduction to Machine Learning
