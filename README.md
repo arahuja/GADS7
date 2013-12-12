@@ -27,13 +27,13 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 ####Slides
 - [ Lesson 1 Slides ]()
 
-###Handouts
+####Handouts
 - [MySQL Tutorial](https://github.com/arahuja/GADS7/wiki/MySQL-Tutorial)
 - [Introduction to Python](https://github.com/arahuja/GADS7/wiki/Introduction-to-Python)
 - [Python Exercises](https://github.com/arahuja/GADS7/wiki/Python-Exercises)
 
 
-### Links
+####Links
 - [Comparison of NoSQL Databases](http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis)
 - [Interactive Python Tutorial](http://www.learnpython.org/page/Basic%20Operators)
 - [Introduction to Python](http://nbviewer.ipython.org/urls/bitbucket.org/amjoconn/watpy-learning-to-code-with-python/raw/3441274a54c7ff6ff3e37285aafcbbd8cb4774f0/notebook/Learn%20to%20Code%20with%20Python.ipynb)
@@ -44,10 +44,10 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 ####Slides
 - [ Lesson 1 Slides ]()
 
-###Handouts
+####Handouts
 - [Python Exercises](https://github.com/arahuja/GADS7/wiki/Python-Exercises)
 
-### Links
+####Links
 - [Introduction to Pandas](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/01%20-%20Lesson.ipynb)
 
 ###Lesson 4: Data Visualization
