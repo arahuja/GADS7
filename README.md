@@ -41,9 +41,6 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 
 ###Lesson 3: Python and Data Manipulation
 
-####Slides
-- [ Lesson 1 Slides ]()
-
 ####Handouts
 - [Python Exercises](https://github.com/arahuja/GADS7/wiki/Python-Exercises)
 
