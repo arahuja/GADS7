@@ -9,7 +9,7 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 ###Lesson 1: Introduction to Data Science & Basic Data Manipulation
 
 ####Slides
-- [ Lesson 1 Slides ]()
+- [ Lesson 1 Slides ](https://github.com/arahuja/GADS7/blob/master/slides/lesson01.pdf)
 
 ####Handouts
 - [Unix Basics: Intro to the Command Line](https://github.com/arahuja/GADS7/wiki/Intro-to-the-command-line)
@@ -25,7 +25,7 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 ###Lesson 2: Data Storage and Extraction
 
 ####Slides
-- [ Lesson 2 Slides ]()
+- [ Lesson 2 Slides ](https://github.com/arahuja/GADS7/blob/master/slides/lesson02.pdf)
 
 ####Handouts
 - [MySQL Tutorial](https://github.com/arahuja/GADS7/wiki/MySQL-Tutorial)
