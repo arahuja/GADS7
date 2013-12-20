@@ -48,6 +48,7 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 - [Introduction to Pandas](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/01%20-%20Lesson.ipynb)
 
 ###Lesson 4: Data Visualization
+####[Assignment 1: Due Jan 9](https://github.com/arahuja/GADS7/wiki/Assignment-1)
 
 ####Slides
 - [ Lesson 4 Slides ](https://github.com/arahuja/GADS7/blob/master/slides/lesson04.pdf)
