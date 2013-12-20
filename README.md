@@ -60,4 +60,7 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 - [Python ggplot](https://github.com/yhat/ggplot/)
 - [Matplotlib](http://matplotlib.org/)
 
-###Lesson 5: Introduction to Machine Learning
+### Lesson 5: Introduction to Machine Learning
+### Lesson 6: Linear Regression
+### Lesson 7: Logistic Regression and Regularization
+### Lesson 8: Naive Bayes and Bayesian Estimators
