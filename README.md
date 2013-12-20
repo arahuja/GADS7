@@ -49,5 +49,15 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 
 ###Lesson 4: Data Visualization
 
+####Slides
+- [ Lesson 4 Slides ](https://github.com/arahuja/GADS7/blob/master/slides/lesson04.pdf)
+
+####Links
+- [Linear Algebra in 4 Pages](http://cnd.mcgill.ca/~ivan/miniref/linear_algebra_in_4_pages.pdf)
+- [Narrative Visualization: Telling Stories With Data](http://vis.stanford.edu/files/2010-Narrative-InfoVis.pdf)
+- [Bokeh](https://github.com/ContinuumIO/bokeh)
+- [Vincent](http://vincent.readthedocs.org/en/latest/)
+- [Python ggplot](https://github.com/yhat/ggplot/)
+- [Matplotlib](http://matplotlib.org/)
 
 ###Lesson 5: Introduction to Machine Learning
