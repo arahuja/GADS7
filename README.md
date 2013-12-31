@@ -50,6 +50,9 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 ###Lesson 4: Data Visualization
 ####[Assignment 1: Due Jan 9](https://github.com/arahuja/GADS7/wiki/Assignment-1)
 
+####Handouts
+- [Pandas and Data Viz Notebook](https://github.com/arahuja/GADS7/blob/master/src/lesson04/Pandas-DataViz.ipynb)
+
 ####Slides
 - [ Lesson 4 Slides ](https://github.com/arahuja/GADS7/blob/master/slides/lesson04.pdf)
 

@@ -18,5 +18,5 @@ def get_prob_of_insult(text, vec, model):
 
 if __name__ == '__main__':
 	model, vec = train_insult_model()
-	test = vec.transform(["I hate you so much"])
+	test = vec.transform(["I hate you so fucking much"])
 	print model.predict_proba(test)

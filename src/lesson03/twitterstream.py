@@ -5,11 +5,11 @@ import train_model
 
 model, vec = train_model.train_insult_model()
 
-access_token_key = "<Enter your code here>"
-access_token_secret = "<Enter your code here>"
+access_token_key = "18370977-UnK79Lw8IZsbOgf9cHlSW48hQCWiOfMpiiqWaEd3O"
+access_token_secret = "LbCFs0erKoPpHNZFNVBeuaaT3In9CKkBSmwAohYGr8Tkl"
 
-consumer_key = "<Enter your code here>"
-consumer_secret = "<Enter your code here>"
+consumer_key = "GvbPz6XCMcOp8610jEifMg"
+consumer_secret = "o7AT3QTrshnswlkQWmYoZiaCY5vYVzYBUQKWPn25zg"
 
 _debug = 0
 
@@ -54,12 +54,13 @@ def twitterreq(url, method, parameters):
   return response
 
 def fetchsamples():
-  url = "https://stream.twitter.com/1/statuses/sample.json"
-  parameters = {'track' : 'something'}
+  url = "https://stream.twitter.com/1/statuses/filter.json"
+  parameters = {'track' : 'the voice'}
   response = twitterreq(url, "GET", parameters)
   for line in response:
     #Iterating over every related to topic
-    text = json.loads(line.strip())
+    text = json.loads(line.strip())['text']
+    print text 
 
 if __name__ == '__main__':
   fetchsamples()
