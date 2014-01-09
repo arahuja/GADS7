@@ -73,6 +73,18 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 - [Scikits-learn User Guide](http://scikit-learn.org/stable/user_guide.html)
 - [A Few Useful Things to Know About Machine Learning](http://www.astro.caltech.edu/~george/ay122/cacm12.pdf)
 
+
 ### Lesson 6: Linear Regression
+
+####[Assignment 1: Due Jan 24](https://github.com/arahuja/GADS7/wiki/Regression-Assignment)
+
+####Handouts
+-[Linear Regression](https://github.com/arahuja/GADS7/wiki/Regression-Assignment)
+
+####Links
+- [A Few Useful Things to Know About Machine Learning](http://www.astro.caltech.edu/~george/ay122/cacm12.pdf)
+- [Statsmodels Documentation](http://statsmodels.sourceforge.net/stable/index.html)
+- [Python 538 Model](https://github.com/jseabold/538model)
+
 ### Lesson 7: Logistic Regression and Regularization
 ### Lesson 8: Naive Bayes and Bayesian Estimators
