@@ -79,7 +79,7 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 ####[Assignment 1: Due Jan 24](https://github.com/arahuja/GADS7/wiki/Regression-Assignment)
 
 ####Handouts
--[Linear Regression](https://github.com/arahuja/GADS7/wiki/Regression-Assignment)
+-[Linear Regression](https://github.com/arahuja/GADS7/wiki/Linear-Regression)
 
 ####Links
 - [A Few Useful Things to Know About Machine Learning](http://www.astro.caltech.edu/~george/ay122/cacm12.pdf)
