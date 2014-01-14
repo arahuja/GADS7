@@ -65,6 +65,8 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 - [Matplotlib](http://matplotlib.org/)
 
 ### Lesson 5: Introduction to Machine Learning
+####Slides
+- [ Lesson 5 Slides ](https://github.com/arahuja/GADS7/blob/master/slides/lesson05.pdf)
 
 ####Handouts
 -[Sklearn and KNearest Neighbors](https://github.com/arahuja/GADS7/wiki/Scikits-Learn-and-K-Nearest-Neighbors)
@@ -72,7 +74,6 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 ####Links
 - [Scikits-learn User Guide](http://scikit-learn.org/stable/user_guide.html)
 - [A Few Useful Things to Know About Machine Learning](http://www.astro.caltech.edu/~george/ay122/cacm12.pdf)
-
 
 ### Lesson 6: Linear Regression
 
@@ -87,4 +88,21 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 - [Python 538 Model](https://github.com/jseabold/538model)
 
 ### Lesson 7: Logistic Regression and Regularization
+####Slides
+- [ Lesson 7 Slides ](https://github.com/arahuja/GADS7/blob/master/slides/lesson07.pdf)
+
+####Links
+- [Logistic Regression Walkthrough](http://www.mc.vanderbilt.edu/gcrc/workshop_files/2004-11-12.pdf)
+- [Logistic Regression w/ Statsmodel - Well Switching in Bangledesh](http://nbviewer.ipython.org/urls/raw.github.com/carljv/Will_it_Python/master/ARM/ch5/arsenic_wells_switching.ipynb)
+- [Odds Ratio Explanation](http://www.wright.edu/~thaddeus.tarpey/ES714glm.pdf)
+- [Fast Logistic Regression: Mahout](https://cwiki.apache.org/MAHOUT/logistic-regression.html)
+- [Fast Logistic Regression: Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit/wiki)
+- [Fast Logistic Regression: LIBLINEAR](http://www.csie.ntu.edu.tw/~cjlin/liblinear/)
+
 ### Lesson 8: Naive Bayes and Bayesian Estimators
+
+####Links
+- [History of Bayes](http://lesswrong.com/lw/774/a_history_of_bayes_theorem/)
+- [Mathematical Exploration of Bayes Theorem](http://edepot.wur.nl/134085)
+- [Naive Bayes v. Logistic Regression](http://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf)
+
