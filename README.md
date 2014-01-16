@@ -69,7 +69,7 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 - [ Lesson 5 Slides ](https://github.com/arahuja/GADS7/blob/master/slides/lesson05.pdf)
 
 ####Handouts
--[Sklearn and KNearest Neighbors](https://github.com/arahuja/GADS7/wiki/Scikits-Learn-and-K-Nearest-Neighbors)
+- [Sklearn and KNearest Neighbors](https://github.com/arahuja/GADS7/wiki/Scikits-Learn-and-K-Nearest-Neighbors)
 
 ####Links
 - [Scikits-learn User Guide](http://scikit-learn.org/stable/user_guide.html)
