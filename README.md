@@ -100,9 +100,21 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 - [Fast Logistic Regression: LIBLINEAR](http://www.csie.ntu.edu.tw/~cjlin/liblinear/)
 
 ### Lesson 8: Naive Bayes and Bayesian Estimators
+####Slides
+- [ Lesson 8 Slides ](https://github.com/arahuja/GADS7/blob/master/slides/lesson08.pdf)
 
 ####Links
+- [Insult Detection Kaggle Submission](http://peekaboo-vision.blogspot.com/2012/09/recap-of-my-first-kaggle-competition.html)
+- [Holy Trinity of Bayesian Estimation](https://engineering.purdue.edu/kak/Trinity.pdf)
 - [History of Bayes](http://lesswrong.com/lw/774/a_history_of_bayes_theorem/)
 - [Mathematical Exploration of Bayes Theorem](http://edepot.wur.nl/134085)
 - [Naive Bayes v. Logistic Regression](http://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf)
+
+### Lesson 9: Decision Trees and Ensemble Learning
+
+### Lesson 10: Ensemble Learning and Classification Review
+
+### Lesson 11: Recommendation Systems
+
+### Lesson 12: K-Means Clustering
 
