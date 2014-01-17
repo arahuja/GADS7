@@ -30,7 +30,8 @@ class NaiveBayes():
         self : object
             Returns self.
       """
-      ##TODO##
+      for (x, c) in zip(X, y):
+        self._fit_instance(x, y)
 
       self._fit_priors()
 
@@ -44,10 +45,14 @@ class NaiveBayes():
      Parameters
         ----------
         instance : string = a line of text or single document
+                   instance =  "This is not an insult"
+                   instanec = "You are a big moron"
         y : int = class of instance
+                = 0 , 1 , class1, class2
 
       """
-      ##TODO##
+      ##  ?????  ##
+
 
 
   def predict(self, X):
@@ -62,7 +67,7 @@ class NaiveBayes():
           : array[int] = class per sample
     """
 
-    ##TODO##
+    return [self._predict_instance(x) for x in X]
 
 
   def predict_proba(self, X):
@@ -89,7 +94,7 @@ class NaiveBayes():
         -------
           : array[ float, float ... ] =  class probabilities 
     """
-    ##TODO##
+    return [ self._compute_class_probability(instance, c) for all_classes]
 
   def _prior_prob(self, c):
     return self._priors[c]
