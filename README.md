@@ -78,6 +78,8 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 ### Lesson 6: Linear Regression
 
 ####[Assignment 1: Due Jan 24](https://github.com/arahuja/GADS7/wiki/Regression-Assignment)
+####Slides
+- [ Lesson 6 Slides ](https://github.com/arahuja/GADS7/blob/master/slides/lesson06.pdf)
 
 ####Handouts
 - [Linear Regression](https://github.com/arahuja/GADS7/wiki/Linear-Regression)
@@ -110,11 +112,23 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 - [Mathematical Exploration of Bayes Theorem](http://edepot.wur.nl/134085)
 - [Naive Bayes v. Logistic Regression](http://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf)
 
-### Lesson 9: Decision Trees and Ensemble Learning
+### Lesson 9: Decision Trees and Random Forests
 
-### Lesson 10: Ensemble Learning and Classification Review
+#### Links 
+- [Random Forests in Python](http://blog.yhathq.com/posts/random-forests-in-python.html)
+- [Random Forests for Kaggle](http://www.kaggle.com/c/titanic-gettingStarted/details/getting-started-with-random-forests)
+- [Random Forests and Performance Metrics](http://citizennet.com/blog/2012/11/10/random-forests-ensembles-and-performance-metrics/)
 
-### Lesson 11: Recommendation Systems
+### Lesson 10: Classification Review
+
+####Links
+- [Choosing a ML Classifier](http://blog.echen.me/2011/04/27/choosing-a-machine-learning-classifier/)
+
+### Lesson 11: Ensemble Learning
 
 ### Lesson 12: K-Means Clustering
+
+### Lesson 13: PCA and Unsupervised Learning
+
+### Lesson 14: Recommendation Systems
 
