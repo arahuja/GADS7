@@ -19,7 +19,8 @@ class CreditScoreFeaturizer():
 
     #Scalars transform all values to a set scale, this one mapes the [min , max] --> [0, 1]
     self._scaler = preprocessing.MinMaxScaler()
-    self._preprocs = [self._imputer, \
+    self._preprocs = [
+                      self._imputer, \
                       #self._binarizer, \
                       #self._scaler
                       ]
@@ -76,6 +77,9 @@ class CreditScoreFeaturizer():
                     'NumberOfTime60-89DaysPastDueNotWorse', \
                     'NumberOfDependents' \
                   ]]
+
+   
+    data.NumberOfDependents.fillna(0)
     if training:
       ### If training flag is set, train the preprocessors based on this data
       data = self._fit_transform(data)
@@ -97,7 +101,7 @@ def train_model(X, y):
   #model = RidgeClassifierCV(alphas=[ 0.1, 1., 10. ])
 
   ##Create the object and set relevant parameters
-  model = LogisticRegression(C=10)
+  model = GradientBoostingClassifier(n_estimators=50)
 
   #Fit the model
   model.fit(X, y)
@@ -137,12 +141,12 @@ def main():
   ##Set target variable y
   y = data.SeriousDlqin2yrs
 
-  print "Cross validating..."
-  print np.mean(cross_val_score(model, X, y, scoring='roc_auc', cv=10))
-
-
   print "Training model..."
   model = train_model(X,y)
+
+  print "Cross validating..."
+  print np.mean(cross_val_score(model, X, y, scoring='roc_auc', cv=3))
+
 
   print "Create predictions on submission set..."
   create_submission(model, featurizer)
