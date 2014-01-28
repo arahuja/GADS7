@@ -116,6 +116,9 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 ####Slides
 - [ Lesson 9 Slides ](https://github.com/arahuja/GADS7/blob/master/slides/lesson09.pdf)
 
+####Handouts
+- [Random Forest on Text Data](https://github.com/arahuja/GADS7/wiki/Random-Forests)
+
 #### Links 
 - [Random Forests in Python](http://blog.yhathq.com/posts/random-forests-in-python.html)
 - [Random Forests for Kaggle](http://www.kaggle.com/c/titanic-gettingStarted/details/getting-started-with-random-forests)
@@ -124,6 +127,9 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 ### Lesson 10: Classification Review
 ####Slides
 - [ Lesson 10 - Review Slides ](https://github.com/arahuja/GADS7/blob/master/slides/review.pdf)
+
+###Handouts 
+- [In Class Review](https://github.com/arahuja/GADS7/wiki/In-Class-Review)
 
 ####Links
 - [Choosing a ML Classifier](http://blog.echen.me/2011/04/27/choosing-a-machine-learning-classifier/)
