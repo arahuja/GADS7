@@ -113,6 +113,8 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 - [Naive Bayes v. Logistic Regression](http://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf)
 
 ### Lesson 9: Decision Trees and Random Forests
+####Slides
+- [ Lesson 9 Slides ](https://github.com/arahuja/GADS7/blob/master/slides/lesson09.pdf)
 
 #### Links 
 - [Random Forests in Python](http://blog.yhathq.com/posts/random-forests-in-python.html)
@@ -120,9 +122,12 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 - [Random Forests and Performance Metrics](http://citizennet.com/blog/2012/11/10/random-forests-ensembles-and-performance-metrics/)
 
 ### Lesson 10: Classification Review
+####Slides
+- [ Lesson 10 - Review Slides ](https://github.com/arahuja/GADS7/blob/master/slides/review.pdf)
 
 ####Links
 - [Choosing a ML Classifier](http://blog.echen.me/2011/04/27/choosing-a-machine-learning-classifier/)
+- [Machine Learning Cheat Sheet for Sklearn](http://peekaboo-vision.blogspot.com/2013/01/machine-learning-cheat-sheet-for-scikit.html)
 
 ### Lesson 11: Ensemble Learning
 
