@@ -136,6 +136,17 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 - [Machine Learning Cheat Sheet for Sklearn](http://peekaboo-vision.blogspot.com/2013/01/machine-learning-cheat-sheet-for-scikit.html)
 
 ### Lesson 11: Ensemble Learning
+####Slides
+- [ Lesson 11 - Ensemble Learning ](https://github.com/arahuja/GADS7/blob/master/slides/lesson11_ensemble.pdf)
+- [ Lesson 11 - K Means ](https://github.com/arahuja/GADS7/blob/master/slides/lesson11_kmeans.pdf)
+
+####Handouts
+- [Random Forest on Text Data](https://github.com/arahuja/GADS7/wiki/Random-Forests)
+
+###Links
+- [KMeans IPython Notebook] (http://nbviewer.ipython.org/urls/raw.github.com/temporaer/tutorial_ml_gkbionics/master/2%2520-%2520KMeans.ipynb)
+- [Text Clustering in Sklearn](http://scikit-learn.github.io/scikit-learn.org/dev/auto_examples/document_clustering.html)
+- [Cloudera ML KMeans](http://blog.cloudera.com/blog/2013/03/cloudera_ml_data_science_tools/)
 
 ### Lesson 12: K-Means Clustering
 
