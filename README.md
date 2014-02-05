@@ -1,5 +1,11 @@
 Welcome to the General Assembly Data Science Handout page.  Here I'll be assembling handouts, walkthrough and links for everyone to have some references to follow-up after class.
 
+####[Final Project Details](https://github.com/arahuja/GADS7/blob/master/GADS7_Final_Project_Reqs.pdf)
+##### Key Dates
+- Feb 6: Project Presentations
+- Feb 20: Data Review and Processing Presentations
+- Last Day of Class: Final Presentations
+
 ###General Resources
 ####Books
 - [Python for Data Analysis](http://it-ebooks.info/book/1041/)
