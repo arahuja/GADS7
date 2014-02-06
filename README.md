@@ -156,7 +156,17 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 
 ### Lesson 12: K-Means Clustering
 
+####Handouts
+
 ### Lesson 13: PCA and Unsupervised Learning
+####Slides
+- [Lesson 13 - PCA and SVD](https://github.com/arahuja/GADS7/blob/master/slides/lesson13.pdf)
+
+####Handouts
+
+###Links
+- [A Tutorial on PCA](http://www.snl.salk.edu/~shlens/pca.pdf)
+- [Stanford PCA Tutorial](http://ufldl.stanford.edu/wiki/index.php/PCA)
 
 ### Lesson 14: Recommendation Systems
 
