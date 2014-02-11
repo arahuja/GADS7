@@ -156,17 +156,36 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 
 ### Lesson 12: K-Means Clustering
 
-####Handouts
-
 ### Lesson 13: PCA and Unsupervised Learning
 ####Slides
 - [Lesson 13 - PCA and SVD](https://github.com/arahuja/GADS7/blob/master/slides/lesson13.pdf)
-
-####Handouts
 
 ###Links
 - [A Tutorial on PCA](http://www.snl.salk.edu/~shlens/pca.pdf)
 - [Stanford PCA Tutorial](http://ufldl.stanford.edu/wiki/index.php/PCA)
 
 ### Lesson 14: Recommendation Systems
+- [Lesson 14 - RecSys](https://github.com/arahuja/GADS7/blob/master/slides/lesson14.pdf)
 
+### Links
+- [Walkthrough of Hulu's Recommendation System](http://tech.hulu.com/blog/2011/09/19/recommendation-system/)
+- [Xavier Amatriain @ Netflix](http://www.cikm2013.org/slides/xavier.pdf)
+- [Yhat Beer Recommendation](http://nbviewer.ipython.org/gist/glamp/20a18d52c539b87de2af)
+- [Mendeley RecSys](http://mendeley.github.io/mrec/)
+- [Crab RecSys](http://muricoca.github.io/crab/tutorial.html#introducing-recommendation-engines)
+
+### Lesson 15: Further Topics in Unsupervised Learning
+
+### Lesson 16: Hadoop
+
+### Slides
+
+### Handouts
+
+### Links
+- [Yahoo Hadoop Tutorial](http://developer.yahoo.com/hadoop/tutorial/)
+- [Hadoop and Pig at Twitter](http://www.slideshare.net/kevinweil/hadoop-pig-and-twitter-nosql-east-2009)
+- [MapReduce Use Cases](http://highlyscalable.wordpress.com/2012/02/01/mapreduce-patterns/)
+- [Hadoop Streaming in Python](http://www.michael-noll.com/tutorials/writing-an-hadoop-mapreduce-program-in-python/)
+
+### Lesson 17: Distributed Data Processing
