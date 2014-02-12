@@ -16,6 +16,7 @@ def get_top_brands(matrix, columns, i):
 if __name__ == '__main__':
   data = pd.read_csv('user-brands.csv')
   data_matrix = pd.pivot_table(data, rows='id', cols='brand', aggfunc=len)
+  print data_matrix.head()
 
   data_matrix = data_matrix.fillna(0)
 
