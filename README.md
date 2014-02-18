@@ -134,7 +134,7 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 ####Slides
 - [ Lesson 10 - Review Slides ](https://github.com/arahuja/GADS7/blob/master/slides/review.pdf)
 
-###Handouts 
+####Handouts 
 - [In Class Review](https://github.com/arahuja/GADS7/wiki/In-Class-Review)
 
 ####Links
@@ -149,7 +149,7 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 ####Handouts
 - [Random Forest on Text Data](https://github.com/arahuja/GADS7/wiki/Random-Forests)
 
-###Links
+####Links
 - [KMeans IPython Notebook] (http://nbviewer.ipython.org/urls/raw.github.com/temporaer/tutorial_ml_gkbionics/master/2%2520-%2520KMeans.ipynb)
 - [Text Clustering in Sklearn](http://scikit-learn.github.io/scikit-learn.org/dev/auto_examples/document_clustering.html)
 - [Cloudera ML KMeans](http://blog.cloudera.com/blog/2013/03/cloudera_ml_data_science_tools/)
@@ -164,28 +164,36 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 - [A Tutorial on PCA](http://www.snl.salk.edu/~shlens/pca.pdf)
 - [Stanford PCA Tutorial](http://ufldl.stanford.edu/wiki/index.php/PCA)
 
-### Lesson 14: Recommendation Systems
+#### Lesson 14: Recommendation Systems
 - [Lesson 14 - RecSys](https://github.com/arahuja/GADS7/blob/master/slides/lesson14.pdf)
 
-### Links
+#### Links
 - [Walkthrough of Hulu's Recommendation System](http://tech.hulu.com/blog/2011/09/19/recommendation-system/)
 - [Xavier Amatriain @ Netflix](http://www.cikm2013.org/slides/xavier.pdf)
 - [Yhat Beer Recommendation](http://nbviewer.ipython.org/gist/glamp/20a18d52c539b87de2af)
 - [Mendeley RecSys](http://mendeley.github.io/mrec/)
 - [Crab RecSys](http://muricoca.github.io/crab/tutorial.html#introducing-recommendation-engines)
 
-### Lesson 15: Further Topics in Unsupervised Learning
+#### Lesson 15: Further Topics in Unsupervised Learning
+####Slides
+- [Lesson 15: More Unsupervised Learning]()
+
+####Links
+- [LDA from EChen Blog](http://blog.echen.me/2011/08/22/introduction-to-latent-dirichlet-allocation/)
+- [Denoising Autoencoders in Theano](http://deeplearning.net/tutorial/dA.html)
 
 ### Lesson 16: Hadoop
 
-### Slides
+####Slides
 
-### Handouts
+#### Handouts
+- [Installing Hadoop](https://github.com/arahuja/GADS7/wiki/Installing-Hadoop)
+- [Hadoop and Data Processing](https://github.com/arahuja/GADS7/wiki/Hadoop-and-Pig)
 
-### Links
+#### Links
 - [Yahoo Hadoop Tutorial](http://developer.yahoo.com/hadoop/tutorial/)
 - [Hadoop and Pig at Twitter](http://www.slideshare.net/kevinweil/hadoop-pig-and-twitter-nosql-east-2009)
 - [MapReduce Use Cases](http://highlyscalable.wordpress.com/2012/02/01/mapreduce-patterns/)
 - [Hadoop Streaming in Python](http://www.michael-noll.com/tutorials/writing-an-hadoop-mapreduce-program-in-python/)
 
-### Lesson 17: Distributed Data Processing
+#### Lesson 17: Distributed Data Processing
