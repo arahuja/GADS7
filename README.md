@@ -176,11 +176,12 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 
 #### Lesson 15: Further Topics in Unsupervised Learning
 ####Slides
-- [Lesson 15: More Unsupervised Learning]()
+- [Lesson 15: More Unsupervised Learning](https://github.com/arahuja/GADS7/blob/master/slides/lesson15.pdf)
 
 ####Links
 - [LDA from EChen Blog](http://blog.echen.me/2011/08/22/introduction-to-latent-dirichlet-allocation/)
 - [Denoising Autoencoders in Theano](http://deeplearning.net/tutorial/dA.html)
+- [Deep Learning Reading List](http://deeplearning.net/reading-list/)
 
 ### Lesson 16: Hadoop
 
