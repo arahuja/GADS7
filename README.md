@@ -184,8 +184,8 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 - [Deep Learning Reading List](http://deeplearning.net/reading-list/)
 
 ### Lesson 16: Hadoop
-
 ####Slides
+- [Lesson 16: Hadoop](https://github.com/arahuja/GADS7/blob/master/slides/lesson16.pdf)
 
 #### Handouts
 - [Installing Hadoop](https://github.com/arahuja/GADS7/wiki/Installing-Hadoop)
@@ -198,3 +198,19 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 - [Hadoop Streaming in Python](http://www.michael-noll.com/tutorials/writing-an-hadoop-mapreduce-program-in-python/)
 
 #### Lesson 17: Distributed Data Processing
+####Slides
+- [Lesson 17: Spark](https://github.com/arahuja/GADS7/blob/master/slides/lesson17.pdf)
+
+#### Handouts
+- [Spark on EC2](https://github.com/arahuja/GADS7/wiki/Spark)
+
+#### Links
+- [Spark Examples](https://spark.incubator.apache.org/examples.html)
+- [Ampcamp Slides and Exercises](http://ampcamp.berkeley.edu/4/)
+- [Spark is a Crossover Hit For Data Scientists](http://blog.cloudera.com/blog/2014/03/why-apache-spark-is-a-crossover-hit-for-data-scientists/)
+
+#### Readings
+- [Machine Learning at Scale at Collective](http://arxiv.org/pdf/1402.6076v1.pdf)
+- [Ad Click Prediction: a View from the Trenches at Google](http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/41159.pdf)
+- [A Few Useful Things to Know About Machine Learning](http://www.astro.caltech.edu/~george/ay122/cacm12.pdf)
+
