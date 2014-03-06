@@ -11,8 +11,8 @@ from sklearn.utils.testing import assert_true
 from sklearn.utils.testing import assert_greater
 
 from sklearn.metrics.cluster import v_measure_score
-from kmeans_exercise_final import KMeans, k_means, distance_function
-from kmeans_exercise_final import _compute_labels_and_score
+from kmeans_exercise import KMeans, k_means, distance_function
+from kmeans_exercise import _compute_labels_and_score
 from sklearn.datasets.samples_generator import make_blobs
 from sklearn.externals.six.moves import cStringIO as StringIO
 

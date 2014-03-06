@@ -15,12 +15,14 @@ from sklearn.metrics.pairwise import euclidean_distances
 """ Takes two vectors v1, v2 and tells us the distance between them
     Basic impl: Euclidean Distance =
           sum of squared distances =
-          SUM_over_i ( (v2[i] - v2[i]) ^ 2 )
+          SQRT ( SUM_over_i ( (v1[i] - v2[i]) ^ 2 ) )
 """
+
 def distance_function(v1, v2):
   #TODO: IMPLEMENT
-  # Writa a function to compute the euclidean distance between two vectors, v1 and v2
-  return 0
+  # Write a function to compute the euclidean distance between two vectors, v1 and v2
+  
+  return np.sqrt( np.sum((v1 - v2) ** 2) )
 
 def _compute_labels_and_score(X, centers):
     """
@@ -50,6 +52,17 @@ def _compute_labels_and_score(X, centers):
 
     # set the default value of centers to -1 to be able to detect errors
     labels = np.ones(n_samples, np.int32)
+    score = 0.0
+    for sample_idx in xrange(n_samples):
+        min_center_dist = np.infty # numpy infinity
+        for cluster_idx in xrange(n_clusters):
+            sample = X[sample_idx]
+            center = centers[cluster_idx]
+            dist = distance_function(sample, center)
+            if dist < min_center_dist:
+                labels[sample_idx] = cluster_idx
+                min_center_dist = dist
+        score += min_center_dist
     #TODO: IMPLEMENT
         # Iterate over the samples and the clusters
         # Compute the distance between samples and cluster center
@@ -93,7 +106,14 @@ def _recompute_centers( X, labels, n_clusters):
     # Compute a center for each label
     # For each label, average over samples and features
     #TODO: IMPLEMENT
-        # Take all of the samples in a cluster and average their features
+        # For each sample
+    for sample_idx in xrange(n_samples):
+            # What label is it? Let's say its label is 'label'
+        label = labels[sample_idx]
+            # Add feature i to label X's feature value i
+        centers[label] += X[sample_idx]
+            # for j in xrange(n_features):
+            #     centers[label][j] += X[sample_idx][j]
 
     # Normalize by the size of the cluster
     centers /= n_samples_in_cluster[:, np.newaxis]
@@ -124,9 +144,6 @@ def k_means(X, n_clusters,
         centroid seeds. The final results will be the best output of
         n_init consecutive runs in terms of score.
 
-    tol : float, optional
-        The relative increment in the results before declaring convergence.
-
     verbose : boolean, optional
         Verbosity mode.
 
@@ -150,7 +167,7 @@ def k_means(X, n_clusters,
 
     """
     random_state = check_random_state(random_state)
-    best_labels, best_score, best_centers = None, None, None
+    best_labels, best_score, best_centers = None, np.infty, None
 
     # We are going to `n_init` random starts and return the best one
     for it in range(n_init):
@@ -159,8 +176,10 @@ def k_means(X, n_clusters,
           verbose=verbose, random_state=random_state)
         # determine if these results are the best so far
         #TODO: IMPLEMENT
-            # Is this the best iteration so far?
-            # If so, update best_centers, best_labels, best_score
+        if score < best_score:
+            best_labels = labels
+            best_score = score
+            best_centers = centers
     return best_centers, best_labels, best_score
 
 
@@ -202,7 +221,7 @@ def _kmeans_single(X, n_clusters, max_iter=10, verbose=False, random_state=None)
     """
     random_state = check_random_state(random_state)
 
-    best_labels, best_score, best_centers = None, None, None
+    best_labels, best_score, best_centers = None, np.infty, None
     # init
     centers = _init_random_centroids(X, n_clusters, random_state=random_state)
     if verbose:
@@ -217,7 +236,11 @@ def _kmeans_single(X, n_clusters, max_iter=10, verbose=False, random_state=None)
 
         # Save the best run
         #TODO: IMPLEMENT
-            # Is this run better than the last run?
+        # Is this run better than the last run?
+        if score < best_score:
+            best_labels = labels
+            best_score = score
+            best_centers = centers
             # If so, update best_centers, best_labels, best_score
 
     return best_labels, best_score, best_centers

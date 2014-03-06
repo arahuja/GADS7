@@ -108,8 +108,11 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 - [Fast Logistic Regression: LIBLINEAR](http://www.csie.ntu.edu.tw/~cjlin/liblinear/)
 
 ### Lesson 8: Naive Bayes and Bayesian Estimators
-####Slides
+#### Slides
 - [ Lesson 8 Slides ](https://github.com/arahuja/GADS7/blob/master/slides/lesson08.pdf)
+
+#### Exercise
+- [Naive Bayes Implementation](https://github.com/arahuja/GADS7/tree/master/src/lesson08)
 
 ####Links
 - [Insult Detection Kaggle Submission](http://peekaboo-vision.blogspot.com/2012/09/recap-of-my-first-kaggle-competition.html)
@@ -156,6 +159,9 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 
 ### Lesson 12: K-Means Clustering
 
+#### Exercise 
+- [K Means Clustering Implementation] (https://github.com/arahuja/GADS7/tree/master/src/lesson12/kmeans)
+
 ### Lesson 13: PCA and Unsupervised Learning
 ####Slides
 - [Lesson 13 - PCA and SVD](https://github.com/arahuja/GADS7/blob/master/slides/lesson13.pdf)
@@ -173,6 +179,9 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 - [Yhat Beer Recommendation](http://nbviewer.ipython.org/gist/glamp/20a18d52c539b87de2af)
 - [Mendeley RecSys](http://mendeley.github.io/mrec/)
 - [Crab RecSys](http://muricoca.github.io/crab/tutorial.html#introducing-recommendation-engines)
+
+#### Exercise
+- [Recommendation Exercises](https://github.com/arahuja/GADS7/tree/master/src/lesson14/)
 
 #### Lesson 15: Further Topics in Unsupervised Learning
 ####Slides

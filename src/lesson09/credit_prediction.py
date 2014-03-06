@@ -102,7 +102,7 @@ def train_model(X, y):
 
   ##Create the object and set relevant parameters
   #model = LogisticRegression(C=10)
-  model = LogisticRegression(C=10)
+  model = GradientBoostingClassifier(n_estimators=50)
   #Fit the model
   model.fit(X, y)
 
