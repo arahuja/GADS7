@@ -214,3 +214,12 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 - [Ad Click Prediction: a View from the Trenches at Google](http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/41159.pdf)
 - [A Few Useful Things to Know About Machine Learning](http://www.astro.caltech.edu/~george/ay122/cacm12.pdf)
 
+#### Lesson 18/19: Distributed Data Processing
+
+### Links
+- [Sketching Data Structures](http://lkozma.net/blog/sketching-data-structures/)
+- [Probabilistic Data Structures for Web Analytics and Data Mining](http://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/)
+- [Streaming Algorithms and Sketches](http://blog.aggregateknowledge.com/tag/count-min-sketch/)
+- [Fast, Cheap, and 98% Right: Cardinality Estimation for Big Data](http://metamarkets.com/2012/fast-cheap-and-98-right-cardinality-estimation-for-big-data/)
+- [Algebra for Analytics](http://cdn.oreillystatic.com/en/assets/1/event/105/Algebra%20for%20Scalable%20Analytics%20Presentation.pdf)
+
