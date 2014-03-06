@@ -18,7 +18,7 @@ Welcome to the General Assembly Data Science Handout page.  Here I'll be assembl
 - [ Lesson 1 Slides ](https://github.com/arahuja/GADS7/blob/master/slides/lesson01.pdf)
 
 ####Handouts
-- [Unix Basics: Intro to the Command Line](https://github.com/arahuja/GADS7/wiki/Intro-to-the-command-line)
+- [Unix Basics: Intro to the Command Line](https://github.com/arahuja/GADS7/wiki/Introduction-to-the-Unix-Command-Line)
 
 ####Links
 - [How To Start Thinking Like a Data Scientist](http://blogs.hbr.org/2013/11/how-to-start-thinking-like-a-data-scientist/)
